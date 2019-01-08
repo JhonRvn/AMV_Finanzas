@@ -1,0 +1,8 @@
+
+/*
+	Este es el path en el cual deben extraer el contenido de este .rar
+	el aplicativo realiza la busqueda de los libs en este directorio.
+	** Dentro de la carpeta Libs
+*/
+
+C:\Program Files\AMV_Finanzas\Libs
